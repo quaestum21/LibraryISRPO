@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryISRPO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db85013a2f8eb9f91004660e97b0a2b2dfd05080")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7d19b7046b27b70e170eba2ab4fba0fa411f29")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryISRPO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryISRPO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

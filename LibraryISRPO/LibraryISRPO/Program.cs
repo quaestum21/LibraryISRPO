@@ -1,8 +1,16 @@
+using LibraryISRPO.DataAccess;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddEndpointsApiExplorer();
 
+builder.Services.AddDbContext<LibraryISRPODbContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(LibraryISRPODbContext));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
