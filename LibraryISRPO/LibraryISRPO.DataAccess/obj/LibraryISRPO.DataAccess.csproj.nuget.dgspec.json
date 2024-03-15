@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj": {}
+    "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj": {
+    "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj",
-        "projectName": "LibraryISRPO.DataAccess",
-        "projectPath": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
+        "projectName": "LibraryISRPO.Core",
+        "projectPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
         "packagesPath": "C:\\Users\\Quaestum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quaestum\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,70 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj",
+        "projectName": "LibraryISRPO.DataAccess",
+        "projectPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Quaestum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Quaestum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {
+                "projectPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

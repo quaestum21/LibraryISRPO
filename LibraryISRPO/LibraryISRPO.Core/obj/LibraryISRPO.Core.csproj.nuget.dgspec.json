@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {}
+    "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {
+    "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
         "projectName": "LibraryISRPO.Core",
-        "projectPath": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
+        "projectPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\LibraryISRPO.Core.csproj",
         "packagesPath": "C:\\Users\\Quaestum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quaestum\\Desktop\\FurnitureMarket\\LibraryISRPO\\LibraryISRPO.Core\\obj\\",
+        "outputPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Quaestum\\AppData\\Roaming\\NuGet\\NuGet.Config",
