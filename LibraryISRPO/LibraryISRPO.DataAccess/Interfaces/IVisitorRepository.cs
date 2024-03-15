@@ -1,18 +1,13 @@
-﻿using LibraryISRPO.DataAccess.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LibraryISRPO.Core.Models;
 
-namespace LibraryISRPO.DataAccess.Interfaces
+namespace LibraryISRPO.DataAccess.Repositories
 {
-    public interface IVisitorRepository
+    internal interface IVisitorRepository
     {
-        Task<VisitorEntity> GetByIdAsync(Guid id);
-        Task<IEnumerable<VisitorEntity>> GetAllAsync();
-        Task AddAsync(VisitorEntity visitor);
-        Task UpdateAsync(VisitorEntity visitor);
-        Task DeleteAsync(Guid id);
+        Task<Guid> Create(Visitor visitor);
+        Task<Guid> Delete(Guid id);
+        Task<List<Visitor>> GetAll();
+        Task<Visitor> GetById(Guid id);
+        Task<Guid> Update(Guid id, string name, string email);
     }
 }

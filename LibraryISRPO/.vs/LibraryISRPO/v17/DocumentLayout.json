@@ -3,32 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\interfaces\\iborrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\interfaces\\iborrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\borrowedbooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\borrowedbooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\borrowedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\borrowedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\visitorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\visitorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\borrowedbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.core\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|solutionrelative:libraryisrpo.core\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\repositories\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\repositories\\visitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|solutionrelative:libraryisrpo.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\configurations\\visitorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\configurations\\visitorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\libraryisrpodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\libraryisrpodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\interfaces\\ivisitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\interfaces\\ivisitorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\libraryisrpodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\libraryisrpodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\configurations\\borrowedbookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,30 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.core\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|solutionrelative:libraryisrpo.core\\models\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.core\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|solutionrelative:libraryisrpo.core\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F806689-E6CA-424F-939F-42C55EE2F867}|LibraryISRPO.Core\\LibraryISRPO.Core.csproj|solutionrelative:libraryisrpo.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC80C794-1E39-4E8E-988B-98027B4D2643}|LibraryISRPO\\LibraryISRPO.csproj|solutionrelative:libraryisrpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\visitorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\borrowedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\borrowedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|c:\\users\\quaestum\\desktop\\libraryisrpo\\libraryisrpo\\libraryisrpo.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E35A198-3C72-4564-B7DB-B6A38110FCBE}|LibraryISRPO.DataAccess\\LibraryISRPO.DataAccess.csproj|solutionrelative:libraryisrpo.dataaccess\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,17 +94,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "LibraryISRPODbContext.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPODbContext.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\LibraryISRPODbContext.cs",
               "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\LibraryISRPODbContext.cs",
               "RelativeToolTip": "LibraryISRPO.DataAccess\\LibraryISRPODbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T19:13:26.932Z",
               "IsPinned": true,
@@ -92,17 +112,99 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowedBooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BorrowedBooksRepository.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\BorrowedBooksRepository.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BorrowedBooksRepository.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\BorrowedBooksRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:58:15.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:57:57.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowedBookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:16:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:34:00.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryISRPO.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:57:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.Core\\Models\\BorrowedBook.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "LibraryISRPO.Core\\Models\\BorrowedBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:11:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VisitorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\VisitorRepository.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\VisitorRepository.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\VisitorRepository.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\VisitorRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAIAAAAkAAAA",
+              "Title": "VisitorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\VisitorsRepository.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\VisitorsRepository.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\VisitorsRepository.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\VisitorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T20:58:30.999Z",
               "EditorCaption": ""
@@ -110,83 +212,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BorrowedBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BorrowedBookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\BorrowedBookRepository.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BorrowedBookRepository.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\BorrowedBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:58:15.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:57:57.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Interfaces\\IBookRepository.cs",
               "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IBookRepository.cs",
               "RelativeToolTip": "LibraryISRPO.DataAccess\\Interfaces\\IBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T21:13:52.837Z",
+              "WhenOpened": "2024-03-15T22:10:18.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "VisitorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Configurations\\VisitorConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Configurations\\VisitorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Configurations\\VisitorConfiguration.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Configurations\\VisitorConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:35:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VisitorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
+              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:15:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LibraryISRPO\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LibraryISRPO\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T21:39:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryISRPO\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryISRPO\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T21:39:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryISRPO\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T21:39:52.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryISRPO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryISRPO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T21:40:13.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IVisitorRepository.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IVisitorRepository.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Interfaces\\IVisitorRepository.cs",
               "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IVisitorRepository.cs",
               "RelativeToolTip": "LibraryISRPO.DataAccess\\Interfaces\\IVisitorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T21:14:09.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IBorrowedBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IBorrowedBookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Interfaces\\IBorrowedBookRepository.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Interfaces\\IBorrowedBookRepository.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Interfaces\\IBorrowedBookRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryISRPO\\Program.cs",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Program.cs",
+              "RelativeToolTip": "LibraryISRPO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T21:14:24.966Z",
+              "WhenOpened": "2024-03-15T18:55:50.193Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryISRPO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\appsettings.json",
+              "RelativeToolTip": "LibraryISRPO\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T21:37:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "BorrowedBookConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Configurations\\BorrowedBookConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Configurations\\BorrowedBookConfiguration.cs",
               "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Configurations\\BorrowedBookConfiguration.cs",
               "RelativeToolTip": "LibraryISRPO.DataAccess\\Configurations\\BorrowedBookConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:24:44.183Z"
+              "WhenOpened": "2024-03-15T20:24:44.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Configurations\\BookConfiguration.cs",
@@ -194,91 +362,21 @@
               "RelativeToolTip": "LibraryISRPO.DataAccess\\Configurations\\BookConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:22:16.722Z"
+              "WhenOpened": "2024-03-15T20:22:16.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Visitor.cs",
               "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Visitor.cs",
               "RelativeDocumentMoniker": "LibraryISRPO.Core\\Models\\Visitor.cs",
               "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Visitor.cs",
               "RelativeToolTip": "LibraryISRPO.Core\\Models\\Visitor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:10:11.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BorrowedBook.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\BorrowedBook.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.Core\\Models\\BorrowedBook.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\BorrowedBook.cs",
-              "RelativeToolTip": "LibraryISRPO.Core\\Models\\BorrowedBook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:11:03.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.Core\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.Core\\Models\\Book.cs",
-              "RelativeToolTip": "LibraryISRPO.Core\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:57:53.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO\\Program.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO\\Program.cs",
-              "RelativeToolTip": "LibraryISRPO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:55:50.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "VisitorEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\VisitorEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:15:56.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BorrowedBookEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\BorrowedBookEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T20:16:12.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
-              "RelativeDocumentMoniker": "LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
-              "ToolTip": "C:\\Users\\Quaestum\\Desktop\\LibraryISRPO\\LibraryISRPO\\LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
-              "RelativeToolTip": "LibraryISRPO.DataAccess\\Entities\\BookEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:34:00.037Z"
+              "WhenOpened": "2024-03-15T20:10:11.152Z",
+              "EditorCaption": ""
             }
           ]
         }

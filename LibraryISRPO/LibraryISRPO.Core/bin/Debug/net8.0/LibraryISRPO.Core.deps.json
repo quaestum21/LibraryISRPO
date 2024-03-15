@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibraryISRPO.Core/1.0.0": {
+        "runtime": {
+          "LibraryISRPO.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryISRPO.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

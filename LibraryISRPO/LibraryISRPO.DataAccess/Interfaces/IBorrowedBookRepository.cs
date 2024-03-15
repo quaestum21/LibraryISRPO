@@ -1,18 +1,12 @@
-﻿using LibraryISRPO.DataAccess.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LibraryISRPO.Core.Models;
 
 namespace LibraryISRPO.DataAccess.Interfaces
 {
     public interface IBorrowedBookRepository
     {
-        Task<BorrowedBookEntity> GetByIdAsync(Guid bookId, Guid visitorId);
-        Task<IEnumerable<BorrowedBookEntity>> GetAllAsync();
-        Task AddAsync(BorrowedBookEntity borrowedBook);
-        Task UpdateAsync(BorrowedBookEntity borrowedBook);
-        Task DeleteAsync(Guid bookId, Guid visitorId);
+        Task<Guid> Create(BorrowedBook borrowedBook);
+        Task<Guid> Delete(Guid bookId, Guid visitorId);
+        Task<List<BorrowedBook>> Get();
+        Task<Guid> Update(Guid bookId, Guid visitorId, DateTime borrowedDate, DateTime? returnedDate);
     }
 }

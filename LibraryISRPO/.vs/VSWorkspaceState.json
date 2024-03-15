@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryISRPO.DataAccess",
+    "\\LibraryISRPO.DataAccess\\Interfaces",
+    "\\LibraryISRPO.DataAccess\\Repositories"
+  ],
+  "SelectedNode": "\\LibraryISRPO.DataAccess\\Repositories\\BorrowedBookRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

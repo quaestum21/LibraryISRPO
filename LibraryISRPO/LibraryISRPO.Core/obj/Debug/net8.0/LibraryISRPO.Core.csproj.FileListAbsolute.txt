@@ -1,0 +1,12 @@
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\bin\Debug\net8.0\LibraryISRPO.Core.deps.json
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\bin\Debug\net8.0\LibraryISRPO.Core.dll
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\bin\Debug\net8.0\LibraryISRPO.Core.pdb
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.AssemblyInfoInputs.cache
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.AssemblyInfo.cs
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.csproj.CoreCompileInputs.cache
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.sourcelink.json
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.dll
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\refint\LibraryISRPO.Core.dll
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\LibraryISRPO.Core.pdb
+C:\Users\Quaestum\Desktop\LibraryISRPO\LibraryISRPO\LibraryISRPO.Core\obj\Debug\net8.0\ref\LibraryISRPO.Core.dll

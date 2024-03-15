@@ -11,7 +11,7 @@ namespace LibraryISRPO.DataAccess
         public DbSet<BorrowedBookEntity> BorrowedBooks { get; set; }
         public LibraryISRPODbContext(DbContextOptions<LibraryISRPODbContext> options): base(options) 
         {
-        
+            Database.EnsureCreated();
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
